@@ -1,1 +1,20 @@
-# groupe6-ingaweb
+# Indications
+
+Identifiants par défaut enregistrés :
+
+Administrateurs
+
+    Email : admin@gmail.com
+    Password : l3in
+
+Enseignants
+
+    Email : enseignant@gmail.com
+    Password : l3in
+
+Étudiants
+
+    Email : etudiant@gmail.com
+    Password : l3in
+
+Ces identifiants peuvent être utilisés pour se connecter à l'application avec les rôles respectifs d'administrateur, d'enseignant et d'étudiant.
